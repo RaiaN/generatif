@@ -1,0 +1,7 @@
+Pillow==11.0.0
+rembg==2.0.60 
+diffusers==0.20.0
+numpy==1.26.4
+onnxruntime==1.20.1
+huggingface_hub==0.23.5
+accelerate==0.24.0
